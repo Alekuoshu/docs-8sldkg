@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-a277s8.sunblossomapparel.com/sitemap.xml
